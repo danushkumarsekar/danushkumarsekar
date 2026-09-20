@@ -8,10 +8,9 @@ Building AI/ML projects while pivoting toward AI Engineering.
 
 #### 🎯 What I'm working on
 
-- 🤖 **RAG-based AI applications** using LangChain, vector databases, and LLM APIs
-- 📊 **End-to-end ML pipelines** — from data ingestion to model deployment
+- 🤖 **[Deutsch-Kompagnon](https://github.com/danushkumarsekar/deutsch-kompagnon)** — a RAG-based German B2 exam prep chatbot ([live demo](https://deutsch-kompagnon.streamlit.app))
+- 📊 **[Leipzig Weather Analytics](https://github.com/danushkumarsekar/leipzig-weather-analytics)** — a live Power BI dashboard with Python + Open-Meteo API
 - 🧪 **Semester projects** in Statistical Learning, Deep Learning, and Big Data Architectures
-- 📈 **Power BI dashboards** for real-world analytics scenarios
 
 #### 🛠️ Tech Stack
 
